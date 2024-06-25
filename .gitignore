@@ -17,3 +17,5 @@ __pycache__/
 # Data files (adjust as needed)
 *.csv
 *.json
+.docx
+.doc
