@@ -1,10 +1,9 @@
-# Project Title
+# Marketing Analytics
 
-Brief description of your project and its purpose.
+This repository contains the codes for the Marketing Analytics project.
 
 ## Installation
-
-Step-by-step guide to install the necessary packages and dependencies.
+Suggest to use pyenv to manage python versions.
 
 ```bash
 # Create a virtual environment
