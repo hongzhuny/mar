@@ -15,3 +15,6 @@ source .venv/bin/activate
 # Install required packages
 pip install -r requirements.txt
 ```
+
+You could download CCPP_data.csv from
+https://ipfs.io/ipfs/QmNQERFxfjQGbm1iVguL8XiWqHoWU5Fxz5deAd8zhLBLBf?filename=CCPP_data.csv
